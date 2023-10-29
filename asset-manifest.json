@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Travel_Go/static/css/main.0fa5f603.css",
+    "main.js": "/Travel_Go/static/js/main.31cb41d8.js",
+    "static/js/787.a0e03106.chunk.js": "/Travel_Go/static/js/787.a0e03106.chunk.js",
+    "static/media/Grid.png": "/Travel_Go/static/media/Grid.83225183fd50730278a6.png",
+    "static/media/logo.png": "/Travel_Go/static/media/logo.54ef293f049c57db035f.png",
+    "index.html": "/Travel_Go/index.html",
+    "main.0fa5f603.css.map": "/Travel_Go/static/css/main.0fa5f603.css.map",
+    "main.31cb41d8.js.map": "/Travel_Go/static/js/main.31cb41d8.js.map",
+    "787.a0e03106.chunk.js.map": "/Travel_Go/static/js/787.a0e03106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa5f603.css",
+    "static/js/main.31cb41d8.js"
+  ]
+}
