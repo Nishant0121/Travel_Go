@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Travel_Go/static/css/main.f4c8de33.css",
-    "main.js": "/Travel_Go/static/js/main.5696c008.js",
+    "main.css": "/Travel_Go/static/css/main.34a1c4cf.css",
+    "main.js": "/Travel_Go/static/js/main.db2239cd.js",
     "static/js/787.a0e03106.chunk.js": "/Travel_Go/static/js/787.a0e03106.chunk.js",
     "static/media/Grid.png": "/Travel_Go/static/media/Grid.83225183fd50730278a6.png",
     "static/media/logo.png": "/Travel_Go/static/media/logo.54ef293f049c57db035f.png",
     "index.html": "/Travel_Go/index.html",
-    "main.f4c8de33.css.map": "/Travel_Go/static/css/main.f4c8de33.css.map",
-    "main.5696c008.js.map": "/Travel_Go/static/js/main.5696c008.js.map",
+    "main.34a1c4cf.css.map": "/Travel_Go/static/css/main.34a1c4cf.css.map",
+    "main.db2239cd.js.map": "/Travel_Go/static/js/main.db2239cd.js.map",
     "787.a0e03106.chunk.js.map": "/Travel_Go/static/js/787.a0e03106.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4c8de33.css",
-    "static/js/main.5696c008.js"
+    "static/css/main.34a1c4cf.css",
+    "static/js/main.db2239cd.js"
   ]
 }
